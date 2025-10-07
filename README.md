@@ -13,5 +13,7 @@
     direnv allow .
     uv pip install rasa-pro
     ```
-    TODO: Replace direnv with ".zshrc" env vars? Just add `source .env` in readme? 
 1. Check it works with `rasa --version`
+
+- TODO: Replace direnv with ".zshrc" env vars? Just add `source .env` in readme? 
+- TODO: Add non-osx instructions
