@@ -7,7 +7,7 @@
     brew install uv direnv
     eval "$(direnv hook zsh)"
     mkdir assistant && cd assistant
-    git clone (link) .
+    git clone git@github.com:HadesArchitect/RasaDevXie.git .
     uv venv --python 3.11
     echo "RASA_LICENSE=YOURKEYHERE" > .env
     direnv allow .
