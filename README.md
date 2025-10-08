@@ -2,8 +2,8 @@
 
 ## Branches
 
-- Branch `main` is all about the DevXie assistant
-- Branch `tutorial` is for tutorial related content
+- Branch [`main`](https://github.com/HadesArchitect/RasaDevXie/tree/main) is all about the DevXie assistant
+- Branch [`tutorial`](https://github.com/HadesArchitect/RasaDevXie/tree/tutorial) is for tutorial related content
 
 ## Tags
 
