@@ -34,10 +34,3 @@ Use git tags to navigate between different stages of the assistant.
 
 - TODO: Replace direnv with ".zshrc" env vars? Just add `source .env` in readme? 
 - TODO: Add non-osx instructions
-
-## Exploring Tutorial Template
-
-1. Review files `domain.yaml`, `data/`, `actions/`
-1. `rasa train` trains a model on the domain and data.
-1. `rasa inspect` to launch it with web inspector
-1. Open a new chat [in browser](http://localhost:5005/webhooks/socketio/inspect.html) and try to make a transfer
